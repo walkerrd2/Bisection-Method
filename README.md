@@ -8,4 +8,4 @@ Report Writing: Develop skills in documenting and reporting numerical analysis r
 
 Practical Application: Apply the Bisection Method to solve specific problems, analyze the accuracy of solutions, and discuss potential improvements or issues with the method.
 
-Overall, the project aims to provide hands-on experience with numerical methods, enhance problem-solving skills, and improve the ability to communicate technical results effectively
+Overall, the project aims to provide hands-on experience with numerical methods, enhance problem-solving skills, and improve the ability to communicate technical results effectively 
